@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "PayTrack",
+    "slug": "paytrack",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0a0e1a"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.paytrack.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#0a0e1a"
+      },
+      "package": "com.paytrack.app"
+    },
+    "assetBundlePatterns": ["**/*"]
+  }
+}
